@@ -7,7 +7,7 @@ function Banner() {
       className="banner"
       style={{
         backgroundSize: "cover",
-        backgroundImage: `url("netflix-banner.png")`,
+        backgroundImage: `url("Black-Banner.jpeg")`,
         backgroundPosition: "center center",
       }}
     >
